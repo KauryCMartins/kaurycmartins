@@ -5,7 +5,7 @@ Hi there, I'm Kaury and I have a passion for both numbers and codes. I'm studyin
 **About me**
   
 - 📌 I am a data analyst who loves to explore, organize and visualize data.
-- 📚 I'm currently improving my skills in SQL, MongoDB and R.
+- 📚 I'm currently improving my skills in Python, SQL, MongoDB and R.
 - 📎   Besides that, I like watching anime and play video games in my spare time.
 
 
