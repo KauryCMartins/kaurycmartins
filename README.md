@@ -4,8 +4,8 @@ Hi there, I'm Kaury and I have a passion for both numbers and codes. I'm studyin
 
 **`About me`**
   
-- I am a data analyst who loves to explore, organize, visualize data and study 'bout machine learning
-- I'm currently improving my skills in Python, SQL, MongoDB and R.
+- I am a jr. data analyst who loves to explore, organize, visualize data and study 'bout machine learning
+- I'm currently improving my skills in Python, SQL, MongoDB and Julia.
 
 
 ##
